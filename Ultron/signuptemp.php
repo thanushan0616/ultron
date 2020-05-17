@@ -1,4 +1,8 @@
 <?php  require_once('header.php') ?>
+<script type="text/javascript">
+   document.getElementById("fname").focus();
+</script>
+
 <h1>Sign up Page</h1>
 <div class='form'>
         <!--empty -->
